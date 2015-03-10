@@ -1,0 +1,37 @@
+body {
+    background: #222222;
+}
+
+a {
+    text-decoration: none;
+}
+
+article {
+    background: #FEF200;
+    box-shadow: 0 5px 35px rgba(0,0,0,.65);
+    padding-top: 5em;
+    width: 600px;
+    height: 800px;
+    margin: 3em auto;
+    background-image: url("draw.png");
+    background-size: 100% 100%;
+}
+
+.text-for-dummies {
+    text-transform: uppercase;
+    color: white;
+}
+
+h2#title-conf {
+    text-align: center;
+    color: white;
+    font-family: "Open Sans";
+    font-size: 78px;
+    -webkit-transform: rotateZ(-5deg);
+    transform: rotateZ(-5deg);
+    -moz-transform: rotateZ(-5deg);
+    -o-transform: rotatez(-5deg);
+    -ms-transform: rotatez(-5deg);
+    font-style: italic;
+}
+
