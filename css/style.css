@@ -70,3 +70,15 @@ p.footer a {
     text-decoration: underline;
     font-weight: bold;
 }
+
+.description {
+    text-transform: uppercase;
+    font-family: "Open Sans", sans-serif;
+    color: white;
+    font-weight: bold;
+    -webkit-transform: rotateZ(-90deg);
+    position: fixed;
+    left: 50%;
+    top: 253px;
+    margin-left: -550px;
+}
