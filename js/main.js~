@@ -5,7 +5,8 @@
           , title = Url.queryString("title") || "Anything"
           , src = Url.queryString("link") || "#"
           ;
-
+	title = (title != null) ? title : "Anything";
+	src = (src != null) ? src : "#";
         document.title = (titleConf.textContent = decodeURIComponent(title)) + " for Dummies"
         urlForDummies.href = decodeURIComponent(src);
     }
