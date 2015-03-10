@@ -13,7 +13,7 @@
     function updateShareLinks() {
         var link = Url.getLocation();
         document.querySelector(".share.facebook").href = "https://www.facebook.com/sharer/sharer.php?u=" + encodeURIComponent(link);
-        document.querySelector(".share.twitter").href = "http://twitter.com/intent/tweet?text=" + encodeURIComponent(decodeURIComponent(Url.queryString("title")) + " for dummies #FORDUMMIES") + "&url=" + encodeURIComponent(link);
+        document.querySelector(".share.twitter").href = "http://twitter.com/intent/tweet?text=" + encodeURIComponent(decodeURIComponent(Url.queryString("title")) + " for dummies #FORDUMMIES") + "&url=" + link;
         document.querySelector(".share.gplus").href = "https://plus.google.com/share?url=" + encodeURIComponent(link);
     }
 
