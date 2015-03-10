@@ -12,7 +12,7 @@ article {
     padding-top: 5em;
     width: 600px;
     height: 800px;
-    margin: 3em auto;
+    margin: 2em auto;
     background-image: url("draw.png");
     background-size: 100% 100%;
 }
@@ -35,3 +35,38 @@ h2#title-conf {
     font-style: italic;
 }
 
+
+.controls {
+    position: fixed;
+    font-family: "Open Sans", sans-serif;
+    right: 0;
+    text-align: left;
+    top: 50%;
+    width: 140px;
+    margin-top: -135px;
+}
+
+.controls a {
+    color: white;
+    background: rgb(0, 148, 218);
+    padding: 1em;
+    display: block;
+}
+
+.controls a:hover {
+    background: #2980b9;
+}
+
+p.footer {
+    text-align: center;
+    padding: 10px;
+    margin-top: -20px;
+    color: white;
+    font-family: "Open Sans";
+}
+
+p.footer a {
+    color: white;
+    text-decoration: underline;
+    font-weight: bold;
+}
