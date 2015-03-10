@@ -77,6 +77,10 @@ p.footer a {
     color: white;
     font-weight: bold;
     -webkit-transform: rotateZ(-90deg);
+    transform: rotateZ(-90deg);
+    -moz-transform: rotateZ(-90deg);
+    -o-transform: rotatez(-90deg);
+    -ms-transform: rotatez(-90deg);
     position: fixed;
     left: 50%;
     top: 253px;
