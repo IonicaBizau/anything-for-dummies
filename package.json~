@@ -16,9 +16,6 @@
     "generator"
   ],
   "author": "Ionică Bizău <bizauionica@gmail.com>",
-  "contributors": [
-    "Daniel BEJAN <dani_bejan2000@yahoo.com>"
-  ],
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/IonicaBizau/anything-for-dummies/issues"
