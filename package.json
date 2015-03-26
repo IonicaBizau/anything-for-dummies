@@ -1,6 +1,6 @@
 {
   "name": "anything-for-dummies",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "#fordummies cover generator with a simple url API",
   "main": "js/main.js",
   "scripts": {
@@ -16,6 +16,9 @@
     "generator"
   ],
   "author": "Ionică Bizău <bizauionica@gmail.com>",
+  "contributors": [
+    "Daniel Bejan <dani_bejan2000@yahoo.com>"
+  ],
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/IonicaBizau/anything-for-dummies/issues"

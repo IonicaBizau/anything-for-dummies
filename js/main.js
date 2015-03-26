@@ -5,7 +5,6 @@
           , title = Url.queryString("title") || "Anything"
           , src = Url.queryString("link") || "#"
           ;
-
         document.title = (titleConf.textContent = decodeURIComponent(title)) + " for Dummies"
         urlForDummies.href = decodeURIComponent(src);
     }
@@ -24,8 +23,8 @@
           ;
 
         if (hash === "create") {
-            Url.updateSearchParam("title", prompt("Title"));
-            Url.updateSearchParam("link", prompt("link"));
+            Url.updateSearchParam("title", prompt("Title") || "Anything");
+            Url.updateSearchParam("link", prompt("link") || "#");
         }
 
         location.hash = "";
