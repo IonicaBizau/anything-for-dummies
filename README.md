@@ -1,28 +1,30 @@
-# Anything `#fordummies`
-`#fordummies` cover generator with a simple url API
+# # Anything `#fordummies` [![Support this project][donate-now]][paypal-donations]
 
-[![](http://i.imgur.com/8qC9HWJ.jpg)](http://ionicabizau.github.io/anything-for-dummies/)
+#fordummies cover generator with a simple url API
 
 ## Live demo
-Click [here for a live demo](http://ionicabizau.github.io/anything-for-dummies/).
 
-## Documentation
+Click [here for a live demo](http://ionicabizau.github.io/anything-for-dummies/).
 
 Use the following query string parameters to create the cover:
 
  - `title`: The title to appear on the cover.
  - `link`: The link which will be opened when the user clicks the cover.
 
-## How to contribute
+[![anything-for-dummies](http://i.imgur.com/8qC9HWJ.jpg)](http://ionicabizau.github.io/anything-for-dummies/)
 
-1. File an issue in the repository, using the bug tracker, describing the
-   contribution you'd like to make. This will help us to get you started on the
-   right foot.
-2. Fork the project in your account and create a new branch:
-   `your-great-feature`.
-3. Commit your changes in that branch.
-4. Open a pull request, and reference the initial issue in the pull request
-   message.
+## How to contribute
+Have an idea? Found a bug? See [how to contribute][contributing].
 
 ## License
-See the [LICENSE](./LICENSE) file.
+
+[KINDLY][license] © [Ionică Bizău][website]
+
+[license]: http://ionicabizau.github.io/kindly-license/?author=Ionic%C4%83%20Biz%C4%83u%20%3Cbizauionica@gmail.com%3E&year=2015
+
+[website]: http://ionicabizau.net
+[paypal-donations]: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=RVXDDLKKLQRJW
+[donate-now]: http://i.imgur.com/6cMbHOC.png
+
+[contributing]: /CONTRIBUTING.md
+[docs]: /DOCUMENTATION.md
