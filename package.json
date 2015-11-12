@@ -1,6 +1,6 @@
 {
   "name": "anything-for-dummies",
-  "version": "1.0.0",
+  "version": "1.2.0",
   "description": "#fordummies cover generator with a simple url API",
   "main": "js/main.js",
   "scripts": {
