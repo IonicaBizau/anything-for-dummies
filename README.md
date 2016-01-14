@@ -1,6 +1,6 @@
-# # Anything `#fordummies` [![PayPal](https://img.shields.io/badge/%24-paypal-f39c12.svg)][paypal-donations] [![Version](https://img.shields.io/npm/v/anything-for-dummies.svg)](https://www.npmjs.com/package/anything-for-dummies) [![Downloads](https://img.shields.io/npm/dt/anything-for-dummies.svg)](https://www.npmjs.com/package/anything-for-dummies) [![Get help on Codementor](https://cdn.codementor.io/badges/get_help_github.svg)](https://www.codementor.io/johnnyb?utm_source=github&utm_medium=button&utm_term=johnnyb&utm_campaign=github)
+# ## Anything `#fordummies` [![PayPal](https://img.shields.io/badge/%24-paypal-f39c12.svg)][paypal-donations] [![Version](https://img.shields.io/npm/v/anything-for-dummies.svg)](https://www.npmjs.com/package/anything-for-dummies) [![Downloads](https://img.shields.io/npm/dt/anything-for-dummies.svg)](https://www.npmjs.com/package/anything-for-dummies) [![Get help on Codementor](https://cdn.codementor.io/badges/get_help_github.svg)](https://www.codementor.io/johnnyb?utm_source=github&utm_medium=button&utm_term=johnnyb&utm_campaign=github)
 
-> #fordummies cover generator with a simple url API
+> `#fordummies` cover generator with a simple url API
 
 ## Live demo
 
