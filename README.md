@@ -1,3 +1,4 @@
+
 # Anything `#fordummies` [![PayPal](https://img.shields.io/badge/%24-paypal-f39c12.svg)][paypal-donations] [![Version](https://img.shields.io/npm/v/anything-for-dummies.svg)](https://www.npmjs.com/package/anything-for-dummies) [![Downloads](https://img.shields.io/npm/dt/anything-for-dummies.svg)](https://www.npmjs.com/package/anything-for-dummies) [![Get help on Codementor](https://cdn.codementor.io/badges/get_help_github.svg)](https://www.codementor.io/johnnyb?utm_source=github&utm_medium=button&utm_term=johnnyb&utm_campaign=github)
 
 > `#fordummies` cover generator with a simple url API
@@ -6,17 +7,21 @@
 
 Click [here for a live demo](http://ionicabizau.github.io/anything-for-dummies/).
 
+
 Use the following query string parameters to create the cover:
+
 
  - `title`: The title to appear on the cover.
  - `link`: The link which will be opened when the user clicks the cover.
 
+
 [![anything-for-dummies](http://i.imgur.com/8qC9HWJ.jpg)](http://ionicabizau.github.io/anything-for-dummies/)
 
-## How to contribute
+## :yum: How to contribute
 Have an idea? Found a bug? See [how to contribute][contributing].
 
-## License
+
+## :scroll: License
 
 [MIT][license] © [Ionică Bizău][website]
 
