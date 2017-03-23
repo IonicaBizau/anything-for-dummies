@@ -16,6 +16,7 @@ Use the following query string parameters to create the cover:
  - `title`: The title to appear on the cover.
  - `link`: The link which will be opened when the user clicks the cover.
 
+
 [![anything-for-dummies](http://i.imgur.com/8qC9HWJ.jpg)](http://ionicabizau.github.io/anything-for-dummies/)
 
 ## :yum: How to contribute
